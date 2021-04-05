@@ -1,1 +1,16 @@
 /* You can add global styles to this file, and also import other style files */
+@import '~bootstrap/dist/css/bootstrap.min.css';
+
+.footer {
+    bottom: 0;
+    width:100%;
+    height: 50px;
+    background-color: blue;
+    color: white;
+}
+
+#talk {
+    padding: 50px;
+    font-size: x-large;
+}
+
